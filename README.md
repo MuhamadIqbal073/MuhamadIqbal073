@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhamad-iqbal-6209bb28a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/Muhamad Iqbal/" height="30" width="40" /></a>
 <a href="https://instagram.com/ibalz.8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibalz.08" height="30" width="40" /></a>
-<a href="https://www.youtube.com/muhamadiqbal7153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3dja0sdzdd3oqdbs_xdl-g" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@muhamadiqbal7153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3dja0sdzdd3oqdbs_xdl-g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
