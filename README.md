@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadiqbal073&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadiqbal073" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamadiqbal073" alt="muhamadiqbal073" /></a> </p>
+<p align="left"> <a href="https://github.com/MuhamadIqbal073/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhamadIqbal073" alt="MuhamadIqbal073" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks, DicodingID, Aws Educate**
 
