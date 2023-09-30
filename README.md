@@ -17,3 +17,13 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://www.buymeacoffee.com/krenzman10t"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://www.buymeacoffee.com/krenzman10t" /></a></p><br><br>
+
+## About Me 👀
+- `Sekarang` menjadi mahasiswa dari Program Studi Informatika, Universitas Bengkulu.
+- Tertarik dengan dunia pemrograman.
+<br><br>
+<h1> <img src="https://www.iconsdb.com/icons/download/white/github-9-64.png" width="35" height="35"> GitHub Stats</h1>
+<p><img class="center" src="https://github-readme-stats.vercel.app/api?username=MuhamadIqbal073&show_icons=true&theme=gotham" alt="stats" />&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img class="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadIqbal073&layout=compact&theme=gotham" alt="toplang" /></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&width=90"/><hr>
+</p>
