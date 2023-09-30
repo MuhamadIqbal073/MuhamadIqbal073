@@ -2,6 +2,8 @@ hi, i'm Muhamad Iqbal
 
 
   <img align="right" alt="GIF" src="https://github.com/MuhamadIqbal073/MuhamadIqbal073/blob/master/code.gif?raw=true" width="500" height="320" />
+
+![](https://komarev.com/ghpvc/?MuhamadIqbal073=your-github-MuhamadIqbal073)
   
 
 **languages and tools:**  
