@@ -16,3 +16,10 @@
 <a href="https://www.youtube.com/c/@muhamadiqbal7153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@muhamadiqbal7153" height="30" width="40" /></a>
 </p>
 
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhamadIqbal073&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhamadIqbal073&layout=compact&theme=algolia"/>
+</a>
+</p>
+
